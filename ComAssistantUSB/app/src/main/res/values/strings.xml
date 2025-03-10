@@ -18,5 +18,6 @@
     <string name="nopermission">Open Com failed:No permission to write or read!</string>
     <string name="unknownerr">Open Com failed:unknown error.</string>
     <string name="parametererr">Open Com failed:Parameter error.</string>
+    <string name="port_name">Port Name</string>
 
 </resources>
