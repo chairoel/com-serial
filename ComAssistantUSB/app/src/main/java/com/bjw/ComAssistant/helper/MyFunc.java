@@ -1,4 +1,4 @@
-package com.bjw.ComAssistant;
+package com.bjw.ComAssistant.helper;
 
 import java.nio.ByteBuffer;
 import java.nio.CharBuffer;

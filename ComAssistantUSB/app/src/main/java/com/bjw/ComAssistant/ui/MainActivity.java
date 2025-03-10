@@ -14,9 +14,9 @@ import android.widget.Toast;
 import android.widget.ToggleButton;
 
 import com.bjw.ComAssistant.R;
-import com.bjw.ComAssistant.SerialHelper;
-import com.bjw.ComAssistant.ShellUtils;
-import com.bjw.bean.AssistBean;
+import com.bjw.ComAssistant.helper.SerialHelper;
+import com.bjw.ComAssistant.helper.ShellUtils;
+import com.bjw.ComAssistant.helper.AssistBean;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
