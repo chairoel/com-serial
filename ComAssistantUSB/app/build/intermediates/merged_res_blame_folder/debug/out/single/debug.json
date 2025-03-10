@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.bjw.ComAssistant.app-merged_res-5:/layout-port_main.xml.flat",
+        "source": "com.bjw.ComAssistant.app-main-7:/layout-port/main.xml"
+    },
+    {
+        "merged": "com.bjw.ComAssistant.app-merged_res-5:/layout-land_main.xml.flat",
+        "source": "com.bjw.ComAssistant.app-main-7:/layout-land/main.xml"
+    },
+    {
+        "merged": "com.bjw.ComAssistant.app-merged_res-5:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.bjw.ComAssistant.app-main-7:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bjw.ComAssistant.app-merged_res-5:/drawable-ldpi_shape.xml.flat",
+        "source": "com.bjw.ComAssistant.app-main-7:/drawable-ldpi/shape.xml"
+    },
+    {
+        "merged": "com.bjw.ComAssistant.app-merged_res-5:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.bjw.ComAssistant.app-main-7:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bjw.ComAssistant.app-merged_res-5:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "com.bjw.ComAssistant.app-main-7:/drawable-ldpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,13 @@
+#Mon Mar 10 10:55:39 WIB 2025
+base.0=/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.1=/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.2=/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
+base.3=/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+path.0=0/classes.dex
+path.1=1/classes.dex
+path.2=11/classes.dex
+path.3=4/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

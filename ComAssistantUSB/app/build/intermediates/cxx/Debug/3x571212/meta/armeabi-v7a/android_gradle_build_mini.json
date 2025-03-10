@@ -1,0 +1,55 @@
+{
+  "buildFiles": [
+    "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Android.mk",
+    "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/macbookpro/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Android.mk",
+      "NDK_APPLICATION_MK\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Application.mk",
+      "APP_ABI\u003darmeabi-v7a",
+      "NDK_ALL_ABIS\u003darmeabi-v7a",
+      "NDK_DEBUG\u003d1",
+      "APP_PLATFORM\u003dandroid-28",
+      "NDK_OUT\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx/Debug/3x571212/obj",
+      "NDK_LIBS_OUT\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx/Debug/3x571212/lib",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/macbookpro/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Application.mk",
+    "APP_ABI\u003darmeabi-v7a",
+    "NDK_ALL_ABIS\u003darmeabi-v7a",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-28",
+    "NDK_OUT\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx/Debug/3x571212/obj",
+    "NDK_LIBS_OUT\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx/Debug/3x571212/lib",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "serial_port-debug-armeabi-v7a": {
+      "artifactName": "serial_port",
+      "buildCommandComponents": [
+        "/Users/macbookpro/Library/Android/sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-28",
+        "NDK_OUT\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx/Debug/3x571212/obj",
+        "NDK_LIBS_OUT\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx/Debug/3x571212/lib",
+        "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx/Debug/3x571212/obj/local/armeabi-v7a/libserial_port.so"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx/Debug/3x571212/obj/local/armeabi-v7a/libserial_port.so",
+      "runtimeFiles": []
+    }
+  }
+}
