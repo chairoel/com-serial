@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bjw.ComAssistant.app-merged_res-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,13,10,6,15,4,5,8,12,17,16,19,14,11,7,18,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "59,630,454,229,708,110,169,334,566,802,753,963,669,502,270,892,397",
+                        "endColumns": "49,37,46,39,43,57,58,61,62,88,47,73,37,62,62,69,55",
+                        "endOffsets": "104,663,496,264,747,163,223,391,624,886,796,1032,702,560,328,957,448"
+                    },
+                    "to": {
+                        "startLines": "73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2050,2100,2138,2185,2225,2269,2327,2386,2448,2511,2600,2648,2722,2760,2823,2886,2956",
+                        "endColumns": "49,37,46,39,43,57,58,61,62,88,47,73,37,62,62,69,55",
+                        "endOffsets": "2095,2133,2180,2220,2264,2322,2381,2443,2506,2595,2643,2717,2755,2818,2881,2951,3007"
+                    }
+                },
+                {
+                    "source": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/src/main/res/values/baudrates.xml",
+                    "from": {
+                        "startLines": "3,35",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,947",
+                        "endLines": "34,66",
+                        "endColumns": "19,20",
+                        "endOffsets": "942,1836"
+                    },
+                    "to": {
+                        "startLines": "2,34",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,946",
+                        "endLines": "33,65",
+                        "endColumns": "19,20",
+                        "endOffsets": "941,1835"
+                    }
+                },
+                {
+                    "source": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/src/main/res/values/serialports.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "19",
+                        "endOffsets": "260"
+                    },
+                    "to": {
+                        "startLines": "66",
+                        "startColumns": "4",
+                        "startOffsets": "1840",
+                        "endLines": "72",
+                        "endColumns": "19",
+                        "endOffsets": "2045"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.bjw.ComAssistant.app-merged_res-5:/values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/src/main/res/values-zh/strings.xml",
+                    "from": {
+                        "startLines": "2,5,4,3,8,9,7,11,6,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,186,146,108,300,336,260,449,223,396",
+                        "endColumns": "49,35,38,36,34,58,38,53,35,51",
+                        "endOffsets": "102,217,180,140,330,390,294,498,254,443"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,141,180,217,252,311,350,404,440",
+                        "endColumns": "49,35,38,36,34,58,38,53,35,51",
+                        "endOffsets": "100,136,175,212,247,306,345,399,435,487"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Android.mk
+/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Application.mk

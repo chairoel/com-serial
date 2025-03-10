@@ -1,0 +1,149 @@
+{
+  "abi": "X86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/.cxx/Debug/574d3v84/x86",
+  "soFolder": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/cxx/Debug/574d3v84/obj/local/x86",
+  "soRepublishFolder": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/ndkBuild/debug/obj/local/x86",
+  "abiPlatformVersion": 28,
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/.cxx",
+      "intermediatesBaseFolder": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates",
+      "intermediatesFolder": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/cxx",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app",
+      "moduleBuildFile": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build.gradle",
+      "makeFile": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "/Users/chairulamri/Library/Android/sdk/ndk/26.1.10909125",
+      "ndkVersion": "26.1.10909125",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 21,
+        "max": 34,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31,
+          "Sv2": 32,
+          "Tiramisu": 33,
+          "UpsideDownCake": 34
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/chairulamri/Library/Android/sdk/ndk/26.1.10909125/build/cmake/android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/chairulamri/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/chairulamri/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/chairulamri/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/chairulamri/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB",
+        "sdkFolder": "/Users/chairulamri/Library/Android/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": []
+    },
+    "prefabClassPaths": [],
+    "prefabPackages": [],
+    "prefabPackageConfigurations": [],
+    "stlType": "system",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/.cxx/Debug/574d3v84/prefab/x86",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "574d3v8412q5n19482v4t634n2n3d3i5u66243t5m3i545g6la6d1m4212719",
+  "configurationArguments": [
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/src/main/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/src/main/jni/Application.mk",
+    "APP_ABI\u003dx86",
+    "NDK_ALL_ABIS\u003dx86",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-28",
+    "NDK_OUT\u003d/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/cxx/Debug/574d3v84/obj",
+    "NDK_LIBS_OUT\u003d/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/cxx/Debug/574d3v84/lib"
+  ],
+  "intermediatesParentFolder": "/Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/cxx/Debug/574d3v84"
+}

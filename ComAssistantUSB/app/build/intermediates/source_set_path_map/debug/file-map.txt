@@ -1,0 +1,8 @@
+com.bjw.ComAssistant.app-pngs-0 /Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/generated/res/pngs/debug
+com.bjw.ComAssistant.app-resValues-1 /Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/generated/res/resValues/debug
+com.bjw.ComAssistant.app-rs-2 /Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/generated/res/rs/debug
+com.bjw.ComAssistant.app-mergeDebugResources-3 /Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.bjw.ComAssistant.app-mergeDebugResources-4 /Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.bjw.ComAssistant.app-merged_res-5 /Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/build/intermediates/merged_res/debug
+com.bjw.ComAssistant.app-debug-6 /Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/src/debug/res
+com.bjw.ComAssistant.app-main-7 /Users/chairulamri/Documents/Transjakarta/AndroidNative/serailCom/ComAssistantUSB/app/src/main/res

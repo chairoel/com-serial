@@ -1,0 +1,145 @@
+{
+  "abi": "ARM64_V8A",
+  "info": {
+    "abi": "ARM64_V8A",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/.cxx/Debug/3x571212/arm64-v8a",
+  "soFolder": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx/Debug/3x571212/obj/local/arm64-v8a",
+  "soRepublishFolder": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a",
+  "abiPlatformVersion": 28,
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/.cxx",
+      "intermediatesBaseFolder": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates",
+      "intermediatesFolder": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app",
+      "moduleBuildFile": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build.gradle",
+      "makeFile": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "/Users/macbookpro/Library/Android/sdk/ndk/21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/macbookpro/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/macbookpro/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/macbookpro/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/macbookpro/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/macbookpro/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB",
+        "sdkFolder": "/Users/macbookpro/Library/Android/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": []
+    },
+    "prefabClassPaths": [],
+    "prefabPackages": [],
+    "prefabPackageConfigurations": [],
+    "stlType": "system",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/.cxx/Debug/3x571212/prefab/arm64-v8a",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "3x5712123y6o1ooxs696xr5n6l5813g3p6p2l1t2x2a292w4c91j1r1p6n",
+  "configurationArguments": [
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/main/jni/Application.mk",
+    "APP_ABI\u003darm64-v8a",
+    "NDK_ALL_ABIS\u003darm64-v8a",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-28",
+    "NDK_OUT\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx/Debug/3x571212/obj",
+    "NDK_LIBS_OUT\u003d/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx/Debug/3x571212/lib"
+  ],
+  "intermediatesParentFolder": "/Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/cxx/Debug/3x571212"
+}

@@ -1,0 +1,7 @@
+com.bjw.ComAssistant.test.app-androidTest-0 /Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/generated/res/resValues/androidTest/debug
+com.bjw.ComAssistant.test.app-androidTest-1 /Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/generated/res/rs/androidTest/debug
+com.bjw.ComAssistant.test.app-mergeDebugAndroidTestResources-2 /Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.bjw.ComAssistant.test.app-mergeDebugAndroidTestResources-3 /Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.bjw.ComAssistant.test.app-merged_res-4 /Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/build/intermediates/merged_res/debugAndroidTest
+com.bjw.ComAssistant.test.app-androidTest-5 /Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/androidTest/res
+com.bjw.ComAssistant.test.app-androidTestDebug-6 /Users/macbookpro/Desktop/OBU_NEW/ComAssistantUSB/app/src/androidTestDebug/res
