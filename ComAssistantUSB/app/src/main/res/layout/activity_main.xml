@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:ignore="MissingDefaultResource">
+    tools:context=".ui.MainActivity">
 
     <TextView
         android:id="@+id/textView"
@@ -24,16 +25,13 @@
             android:id="@+id/editTextRecDisp1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="4"
+            android:layout_weight="1"
             android:background="@drawable/shape"
             android:clickable="false"
             android:enabled="false"
             android:gravity="top"
             android:longClickable="false"
-            android:paddingLeft="10dp"
-            android:paddingTop="10dp"
-            android:paddingRight="10dp"
-            android:paddingBottom="10dp"
+            android:padding="10dp"
             android:textSize="20sp" />
 
         <View
@@ -44,145 +42,85 @@
             android:id="@+id/LinearLayoutRecTool"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="3"
+            android:layout_weight="1"
             android:orientation="vertical">
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_weight="10"
+                android:layout_height="0dp"
+                android:layout_weight="1"
                 android:orientation="vertical">
 
                 <EditText
                     android:id="@+id/editTextCOMA"
                     android:layout_width="match_parent"
-                    android:layout_height="0dp"
-                    android:layout_weight="1"
+                    android:layout_height="match_parent"
                     android:background="@drawable/shape"
                     android:gravity="top"
                     android:imeOptions="actionDone"
-                    android:paddingRight="5dp"
-                    android:paddingBottom="5dp" />
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="16dp"
-                    android:orientation="horizontal">
-
-                    <EditText
-                        android:id="@+id/editBebas"
-                        android:layout_width="0dp"
-                        android:layout_gravity="top"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:background="@drawable/shape"
-                        android:imeOptions="actionDone"
-                        android:padding="5dp"
-                        android:layout_marginBottom="8dp"/>
-
-                    <Spinner
-                        android:id="@+id/spinnerPortList"
-                        android:layout_width="150dp"
-                        android:layout_height="match_parent"
-                        android:layout_marginStart="12dp" />
-
-                </LinearLayout>
-
+                    android:padding="5dp"/>
             </LinearLayout>
 
             <LinearLayout
                 android:id="@+id/LinearLayoutALLCOM"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:gravity="bottom"
                 android:orientation="vertical">
 
-                <LinearLayout
+                <Button
+                    android:id="@+id/btnClear"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="right"
-                    android:orientation="horizontal">
-
-                    <Spinner
-                        android:id="@+id/SpinnerCOM"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        android:visibility="gone" />
-
-                    <Button
-                        android:id="@+id/ButtonClear"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:text="@string/clear"
-                        android:textSize="12sp" />
-                </LinearLayout>
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="1dp"
-                    android:background="#b9b6b6" />
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal">
-
-                    <EditText
-                        android:id="@+id/editTextLines"
-                        android:layout_width="0dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginTop="10dp"
-                        android:layout_weight="2"
-                        android:clickable="false"
-                        android:enabled="false"
-                        android:longClickable="false"
-                        android:paddingLeft="5dp"
-                        android:paddingRight="5dp"
-                        android:text="@string/zero"
-                        android:textSize="15sp">
-
-                    </EditText>
-
-                    <RadioGroup
-                        android:id="@+id/radioGroupOption"
-                        android:layout_width="0dp"
-                        android:layout_height="match_parent"
-                        android:layout_marginTop="10dp"
-                        android:layout_weight="2"
-                        android:orientation="horizontal">
-
-                        <RadioButton
-                            android:id="@+id/radioButtonTxt"
-                            android:layout_width="0dp"
-                            android:layout_height="match_parent"
-                            android:layout_weight="1"
-                            android:checked="true"
-                            android:text="@string/text_rbtn" />
-
-                        <RadioButton
-                            android:id="@+id/radioButtonHex"
-                            android:layout_width="0dp"
-                            android:layout_height="match_parent"
-                            android:layout_weight="1"
-                            android:text="@string/hex_rbtn" />
-                    </RadioGroup>
-
-                </LinearLayout>
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="1dp"
-                    android:background="#b9b6b6" />
+                    android:text="@string/clear"
+                    android:textSize="12sp" />
 
                 <LinearLayout
                     android:id="@+id/LinearLayoutTooLCOMA"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
                     android:orientation="vertical">
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="#808080"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:layout_marginTop="8dp"
+                        android:text="@string/port_name"
+                        android:textStyle="bold"
+                        android:textSize="18sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="top"
+                        android:layout_marginTop="4dp"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/editTextManualPort"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="top"
+                            android:layout_marginBottom="8dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/shape"
+                            android:imeOptions="actionDone"
+                            android:padding="5dp" />
+
+                        <Spinner
+                            android:id="@+id/spinnerPortList"
+                            android:layout_width="150dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="12dp" />
+
+                    </LinearLayout>
 
                     <LinearLayout
                         android:id="@+id/LinearLayoutOption2COMA"
@@ -215,7 +153,7 @@
                             android:text="@string/millsecond" />
                     </LinearLayout>
 
-                    <TextView
+                    <View
                         android:layout_width="match_parent"
                         android:layout_height="1dp"
                         android:background="#b9b6b6" />
@@ -224,15 +162,7 @@
                         android:id="@+id/LinearLayoutButton"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:gravity="right|bottom"
                         android:orientation="horizontal">
-
-                        <CheckBox
-                            android:id="@+id/checkBoxAutoCOMA"
-                            android:layout_width="0dp"
-                            android:layout_height="wrap_content"
-                            android:layout_weight="2"
-                            android:text="@string/auto" />
 
                         <ToggleButton
                             android:id="@+id/toggleButtonCOMA"
@@ -242,15 +172,17 @@
                             android:text="" />
 
                         <Button
-                            android:id="@+id/ButtonSendCOMA"
+                            android:id="@+id/btnSendData"
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="3"
                             android:text="@string/send" />
                     </LinearLayout>
+
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
+
 
 </LinearLayout>

@@ -1,6 +1,4 @@
-package com.bjw.ComAssistant;
-
-import android.util.Log;
+package com.bjw.ComAssistant.helper;
 
 import java.io.File;
 import java.io.IOException;
